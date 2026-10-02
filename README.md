@@ -61,18 +61,11 @@ VQBIT research uses, where applicable:
 
 ## Institutional Communication Record
 
-VQBIT research has been communicated for institutional awareness and/or potential independent evaluation through multiple channels, including:
+VQBIT has been communicated through multiple governmental, scientific, industry, and international institutional channels for awareness and/or potential independent technical evaluation.
 
-- Five Eyes-related governmental and institutional channels
-- FBI Industry Outreach
-- CIA Technology Collaboration
-- Public Security Intelligence Agency (PSIA), Japan
-- Embassy and international institutional channels
-- Google Research communication channel
+Records and reference information associated with these communications are retained privately by the author.
 
-A unique CIA Technology Collaboration Submission Reference ID was issued and is retained privately as evidence of the submission.
-
-The listing of an institution here means only that a communication was made through an institutional channel. It does NOT imply endorsement, validation, partnership, affiliation, or acceptance of VQBIT by that institution.
+The existence of these communications does NOT imply endorsement, validation, affiliation, partnership, funding, protection, or acceptance of VQBIT by any contacted institution.
 
 ## Intellectual Property Notice
 
